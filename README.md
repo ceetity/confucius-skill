@@ -128,10 +128,10 @@
 
 ```bash
 # 克隆到 Claude Code 技能目录
-git clone https://github.com/your-username/confucius-skill.git ~/.claude/skills/confucius-skill
+git clone https://github.com/ceetity/confucius-skill.git ~/.claude/skills/confucius-skill
 
 # 或项目级安装
-git clone https://github.com/your-username/confucius-skill.git .claude/skills/confucius-skill
+git clone https://github.com/ceetity/confucius-skill.git .claude/skills/confucius-skill
 ```
 
 然后在 Claude Code 里：
