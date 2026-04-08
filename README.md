@@ -242,6 +242,6 @@ MIT — 随便用，随便改。
 
 <br>
 
-MIT License
+<p align="left">MIT License © <a href="https://github.com/ceetity/">ceetity</a></p>
 
 </div>
